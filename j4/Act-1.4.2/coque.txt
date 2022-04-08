@@ -1,0 +1,30 @@
+public class coque{
+    public int largeur;
+    private int longeur ;
+ 
+
+    
+//constructeur vide
+voile(){
+
+this.largeur=0;
+this.longeur=0;
+
+
+}
+//constructeur
+voile(int largeur, int longeur,int epaisseur,String couleur ,boolean enroule,boolean deroule) {
+
+this.largeur=largeur;
+this.longeur=longeur;
+
+
+}
+fonction(){
+system.out.println("WelcomeClubNautique");
+}
+ 
+fonction(){
+system.out.println("WelcomeClubNautique");
+}
+}

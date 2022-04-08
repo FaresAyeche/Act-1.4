@@ -1,0 +1,26 @@
+public class bateau{
+    public int largeur;
+    private int longeur ;
+    cabine cabine ;
+    coque coque;
+    pont pont;
+ 
+final int ide=5;
+    
+
+pont(int largeur, int longeur,coque coque,pont pont,cabine cabine,final int ide=5){
+this.cabine=cabine;
+this.coque=coque;
+this.pont=pont;
+this.largeur=0;
+this.longeur=0;
+
+}
+
+
+boolean test(Boolean test1){
+return(true);
+
+}
+
+}
